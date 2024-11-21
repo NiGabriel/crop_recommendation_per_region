@@ -1,0 +1,401 @@
+District,Sector,Top 1 Crop,Top 2 Crop,Top 3 Crop,Top 4 Crop,Top 5 Crop
+Nyarugenge,Gitega,Spinach,Avocado,Tomato,Coffee,Mango
+Nyarugenge,Kanyinya,Spinach,Tomato,Coffee,Avocado,Tea
+Nyarugenge,Kigali,Spinach,Avocado,French beans,Tomato,Eggplant
+Nyarugenge,Kimisagara,Spinach,Coffee,Tomato,Avocado,Tea
+Nyarugenge,Mageregere,Spinach,Tomato,Avocado,Coffee,Tea
+Nyarugenge,Muhima,Spinach,Mango,Tomato,Tea,Onion dry
+Nyarugenge,Nyakabanda,Spinach,Tomato,Mango,French beans,Tea
+Nyarugenge,Nyamirambo,Spinach,Tomato,Avocado,French beans,Mango
+Nyarugenge,Nyarugenge,Spinach,French beans,Tomato,Avocado,Mango
+Nyarugenge,Rwezamenyo,Spinach,Tomato,Avocado,Coffee,Mango
+Gasabo,Bumbogo,Spinach,Coffee,Tea,Tomato,Avocado
+Gasabo,Gatsata,Mango,Spinach,Tomato,Onion dry,Tea
+Gasabo,Gikomero,Spinach,Tomato,Mango,Tea,Onion dry
+Gasabo,Gisozi,Mango,Spinach,Tomato,Tea,Onion dry
+Gasabo,Jabana,Spinach,Mango,Tomato,Tea,Onion dry
+Gasabo,Jali,Spinach,Tea,Mango,Tomato,Cabbage
+Gasabo,Kacyiru,Spinach,Tomato,Tea,Coffee,Mango
+Gasabo,Kimihurura,Coffee,Tomato,Avocado,Tea,Mango
+Gasabo,Kimironko,Coffee,Tomato,Avocado,Tea,Mango
+Gasabo,Kinyinya,Avocado,Tomato,Celery,Mango,Beans
+Gasabo,Ndera,Avocado,Tomato,Mango,Spinach,Cabbage
+Gasabo,Nduba,Coffee,Tea,Tomato,Avocado,Mango
+Gasabo,Remera,Mango,Tomato,Tea,Cabbage,Onion dry
+Gasabo,Rusororo,Tomato,Mango,Cabbage,Avocado,Tea
+Gasabo,Rutunga,Tomato,Avocado,Mango,French beans,Potato
+Kicukiro,Gahanga,Tomato,Mango,Cabbage,Tea,Avocado
+Kicukiro,Gatenga,Tomato,Mango,Tea,Cabbage,French beans
+Kicukiro,Gikondo,Tomato,Avocado,Mango,French beans,Cabbage
+Kicukiro,Kagarama,Coffee,Tomato,Tea,Mango,Avocado
+Kicukiro,Kanombe,Coffee,Tea,Tomato,Mango,Avocado
+Kicukiro,Kicukiro,Coffee,Tea,Tomato,Mango,Avocado
+Kicukiro,Kigarama,Coffee,Tea,Tomato,Mango,Avocado
+Kicukiro,Masaka,Coffee,Tea,Tomato,Avocado,Mango
+Kicukiro,Niboye,Coffee,Tomato,Tea,Avocado,Mango
+Kicukiro,Nyarugunga,Mango,Tomato,Tea,Cabbage,Onion dry
+Nyanza,Busasamana,Coffee,Tea,Tomato,Avocado,Cabbage
+Nyanza,Busoro,Tomato,Mango,Tea,Cabbage,Avocado
+Nyanza,Cyabakamyi,Tea,Tomato,Mango,Coffee,Cabbage
+Nyanza,Kibilizi,Coffee,Avocado,Tea,Tomato,Mango
+Nyanza,Kigoma,Coffee,Avocado,Tomato,Tea,Cabbage
+Nyanza,Mukingo,Onion dry,Tomato,Tea,Mango,Maize
+Nyanza,Muyira,Avocado,Tomato,Coffee,Tea,Mango
+Nyanza,Ntyazo,Coffee,Tea,Tomato,Avocado,Mango
+Nyanza,Nyagisozi,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyanza,Rwabicuma,Tea,Tomato,Mango,Cabbage,Onion dry
+Gisagara,Gikonko,Avocado,Coffee,Tomato,Tea,Mango
+Gisagara,Gishubi,Tomato,Mango,Cabbage,Tea,Avocado
+Gisagara,Kansi,Tea,Tomato,Mango,Cabbage,Onion dry
+Gisagara,Kibirizi,Mango,Tomato,Tea,Cabbage,Onion dry
+Gisagara,Kigembe,Mango,Tomato,Tea,Cabbage,Onion dry
+Gisagara,Mamba,Mango,Tomato,Tea,Cabbage,Onion dry
+Gisagara,Muganza,Coffee,Tea,Tomato,Mango,Avocado
+Gisagara,Mugombwa,Coffee,Tea,Tomato,Mango,Avocado
+Gisagara,Mukindo,Tomato,Tea,Mango,Cabbage,Onion dry
+Gisagara,Musha,Tea,Tomato,Mango,Onion dry,Cabbage
+Gisagara,Ndora,Tea,Tomato,Mango,Cabbage,Onion dry
+Gisagara,Nyanza,Tea,Tomato,Mango,Cabbage,Onion dry
+Gisagara,Save,Avocado,Tomato,Watermelon,Tea,Celery
+Nyaruguru,Busanze,Tomato,Avocado,Potato,Tea,Cabbage
+Nyaruguru,Cyahinda,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Kibeho,Tomato,Tea,Mango,Cabbage,Onion dry
+Nyaruguru,Mata,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Muganza,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Munini,Tomato,Cabbage,Tea,Mango,Avocado
+Nyaruguru,Ngera,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Ngoma,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Nyabimata,Tea,Tomato,Cabbage,Mango,Pumpkin
+Nyaruguru,Nyagisozi,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Ruheru,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Ruramba,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyaruguru,Rusenge,Tomato,Tea,Mango,Cabbage,Onion dry
+Huye,Gishamvu,Tea,Tomato,Mango,Cabbage,Coffee
+Huye,Huye,Tomato,Tea,Mango,Cabbage,Onion dry
+Huye,Karama,Tomato,Tea,Mango,Cabbage,Onion dry
+Huye,Kigoma,Tea,Tomato,Mango,Onion dry,Cabbage
+Huye,Kinazi,Mango,Tomato,Tea,Onion dry,Cabbage
+Huye,Maraba,Onion dry,Tea,Tomato,Mango,Maize
+Huye,Mbazi,Tea,Tomato,Cabbage,Mango,Avocado
+Huye,Mukura,Tea,Tomato,Mango,Cabbage,Onion dry
+Huye,Ngoma,Tea,Tomato,Cabbage,Mango,Onion dry
+Huye,Ruhashya,Coffee,Tea,Tomato,Avocado,Mango
+Huye,Rusatira,Tea,Tomato,Mango,Cabbage,Onion dry
+Huye,Rwaniro,Tea,Tomato,Mango,Cabbage,Avocado
+Huye,Simbi,Tomato,Tea,Mango,Cabbage,Onion dry
+Huye,Tumba,Avocado,Tomato,Celery,Potato,Cabbage
+Nyamagabe,Buruhukiro,Avocado,Tomato,Celery,Potato,Tea
+Nyamagabe,Cyanika,Tomato,Avocado,French beans,Cabbage,Tea
+Nyamagabe,Gasaka,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Gatare,Coffee,Tea,Tomato,Avocado,Mango
+Nyamagabe,Kaduha,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Kamegeri,Tomato,Tea,Mango,Cabbage,Onion dry
+Nyamagabe,Kibirizi,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Kibumbwe,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Kitabi,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Mbazi,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Mugano,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Musange,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Musebeya,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Mushubi,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamagabe,Tare,Tea,Tomato,Cabbage,Mango,Onion dry
+Nyamagabe,Uwinkingi,Tomato,Tea,Mango,Cabbage,Onion dry
+Ruhango,Bweramana,Tomato,Tea,Mango,Cabbage,Onion dry
+Ruhango,Byimana,Tea,Tomato,Mango,Cabbage,Onion dry
+Ruhango,Kabagali,Tea,Tomato,Mango,Cabbage,Onion dry
+Ruhango,Kinazi,Mango,Tomato,Tea,Onion dry,Cabbage
+Ruhango,Kinihira,Coffee,Tea,Tomato,Avocado,Mango
+Ruhango,Mbuye,Onion dry,Mango,Tomato,Tea,Maize
+Ruhango,Mwendo,Tea,Tomato,Mango,Cabbage,Onion dry
+Ruhango,Ntongwe,Onion dry,Mango,Tomato,Tea,Maize
+Ruhango,Ruhango,Tomato,Tea,Mango,Cabbage,Onion dry
+Muhanga,Cyeza,Onion dry,Tomato,Tea,Mango,Maize
+Muhanga,Kabacuzi,Mango,Tomato,Tea,Cabbage,Onion dry
+Muhanga,Kibangu,Mango,Tomato,Tea,Cabbage,Onion dry
+Muhanga,Kiyumba,Tea,Tomato,Mango,Cabbage,Onion dry
+Muhanga,Muhanga,Tomato,Tea,Mango,Cabbage,Onion dry
+Muhanga,Mushishiro,Tea,Mango,Tomato,Cabbage,Onion dry
+Muhanga,Nyabinoni,Tomato,Tea,Mango,Cabbage,Onion dry
+Muhanga,Nyamabuye,Tea,Tomato,Mango,Cabbage,Onion dry
+Muhanga,Nyarusange,Tea,Tomato,Mango,Cabbage,Onion dry
+Muhanga,Rongi,Onion dry,Maize,Mango,Tomato,Tea
+Muhanga,Rugendabari,Onion dry,Maize,Mango,Tomato,Tea
+Muhanga,Shyogwe,Mango,Tomato,Maize,Cabbage,Tea
+Kamonyi,Gacurabwenge,Onion dry,Maize,Mango,Tomato,Tea
+Kamonyi,Karama,Mango,Tomato,Coffee,Tea,Cabbage
+Kamonyi,Kayenzi,Mango,Tomato,Coffee,Tea,Cabbage
+Kamonyi,Kayumbu,Onion dry,Tomato,Mango,Tea,Maize
+Kamonyi,Mugina,Mango,Tomato,Tea,Onion dry,Cabbage
+Kamonyi,Musambira,Onion dry,Tomato,Mango,Maize,Cabbage
+Kamonyi,Ngamba,Onion dry,Tomato,Tea,Mango,Maize
+Kamonyi,Nyamiyaga,Onion dry,Mango,Tomato,Tea,Maize
+Kamonyi,Nyarubaka,Mango,Tomato,Tea,Cabbage,Coffee
+Kamonyi,Rugarika,Tomato,Mango,Tea,Coffee,Cabbage
+Kamonyi,Rukoma,Onion dry,Maize,Tomato,Mango,Tea
+Kamonyi,Runda,Onion dry,Maize,Mango,Tomato,French beans
+Karongi,Bwishyura,Onion dry,Mango,Maize,Tomato,Coffee
+Karongi,Gashari,Tea,Tomato,Mango,Cabbage,Onion dry
+Karongi,Gitesi,Tea,Tomato,Mango,Cabbage,Coffee
+Karongi,Mubuga,Tomato,Tea,Mango,Cabbage,Avocado
+Karongi,Murambi,Coffee,Tea,Tomato,Avocado,Mango
+Karongi,Murundi,Tea,Tomato,Mango,Cabbage,Maize
+Karongi,Mutuntu,Onion dry,Tea,Tomato,Mango,Maize
+Karongi,Rubengera,Tea,Tomato,Mango,Cabbage,Maize
+Karongi,Rugabano,Onion dry,Tomato,Eggplant,Pineapple,French beans
+Karongi,Ruganda,Tomato,Tea,Mango,Cabbage,Maize
+Karongi,Rwankuba,Tea,Tomato,Mango,Cabbage,Avocado
+Karongi,Twumba,Eggplant,Pineapple,Avocado,Tomato,Tea
+Rutsiro,Gihango,Tea,Tomato,Mango,Cabbage,Coffee
+Rutsiro,Manihira,Tea,Mango,Coffee,Tomato,Cabbage
+Rutsiro,Mukura,Mango,Tomato,Tea,Coffee,Cabbage
+Rutsiro,Murunda,Mango,Tea,Tomato,Coffee,Cabbage
+Rutsiro,Mushonyi,Mango,Tomato,Tea,Coffee,Cabbage
+Rutsiro,Mushubati,Mango,Tomato,Tea,Coffee,Cabbage
+Rutsiro,Nyabirasi,Onion dry,Maize,Mango,Tomato,Coffee
+Rutsiro,Ruhango,Onion dry,Maize,Mango,Tomato,Coffee
+Rutsiro,Rusebeya,Mango,Tea,Tomato,Coffee,Maize
+Rubavu,Bugeshi,Mango,Tomato,Tea,Cabbage,Maize
+Rubavu,Busasamana,Onion dry,Maize,Mango,Tomato,Tea
+Rubavu,Cyanzarwe,Tea,Tomato,Mango,Cabbage,Onion dry
+Rubavu,Gisenyi,Mango,Tomato,Tea,Onion dry,Maize
+Rubavu,Kanama,Onion dry,Tea,Tomato,Mango,Maize
+Rubavu,Kanzenze,Eggplant,Avocado,Pineapple,Watermelon,Potato
+Rubavu,Mudende,Tomato,Tea,Mango,Cabbage,Maize
+Rubavu,Nyakiriba,Tea,Tomato,Mango,Cabbage,Onion dry
+Rubavu,Nyundo,Tomato,Tea,Cabbage,Pumpkin,Mango
+Rubavu,Rubavu,Tea,Tomato,Mango,Cabbage,Onion dry
+Rubavu,Rugerero,Tomato,Mango,Cabbage,Tea,Maize
+Nyabihu,Bigogwe,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Jenda,Onion dry,Tea,Tomato,Maize,Mango
+Nyabihu,Jomba,Onion dry,Tea,Tomato,Maize,Mango
+Nyabihu,Kabatwa,Onion dry,Maize,Tomato,Mango,Tea
+Nyabihu,Karago,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Kintobo,Onion dry,Maize,Tomato,Mango,Tea
+Nyabihu,Mukamira,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Muringa,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Rambura,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Rugera,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Rurembo,Onion dry,Maize,Mango,Tomato,Coffee
+Nyabihu,Shyira,Mango,Tomato,Tea,Coffee,Maize
+Ngororero,Bwira,Mango,Tea,Tomato,Coffee,Cabbage
+Ngororero,Gatumba,Onion dry,Maize,Mango,Tomato,Coffee
+Ngororero,Hindiro,Onion dry,Maize,Mango,Tomato,Coffee
+Ngororero,Kabaya,Mango,Tea,Tomato,Coffee,Cabbage
+Ngororero,Kageyo,Mango,Tea,Tomato,Coffee,Cabbage
+Ngororero,Kavumu,Mango,Tomato,Tea,Coffee,Cabbage
+Ngororero,Matyazo,Mango,Tomato,Tea,Coffee,Cabbage
+Ngororero,Muhanda,Onion dry,Maize,Mango,Tomato,Coffee
+Ngororero,Muhororo,Mango,Tomato,Tea,Coffee,Cabbage
+Ngororero,Ndaro,Mango,Tomato,Tea,Coffee,Cabbage
+Ngororero,Ngororero,Onion dry,Maize,Mango,Tomato,Coffee
+Ngororero,Nyange,Onion dry,Maize,Mango,Tomato,Coffee
+Ngororero,Sovu,Onion dry,Maize,Tomato,Mango,Coffee
+Rusizi,Bugarama,Mango,Tomato,Tea,Avocado,Squash
+Rusizi,Gashonga,Onion dry,Tea,Tomato,Mango,Maize
+Rusizi,Giheke,Tea,Tomato,Mango,Onion dry,Cabbage
+Rusizi,Gihundwe,Tea,Tomato,Mango,Cabbage,Coffee
+Rusizi,Gikundamvura,Onion dry,Mango,Tomato,Maize,Coffee
+Rusizi,Gitambi,Mango,Tomato,Maize,Cabbage,Onion dry
+Rusizi,Kamembe,Onion dry,Maize,Mango,Tomato,Coffee
+Rusizi,Muganza,Onion dry,Mango,Tomato,Maize,Coffee
+Rusizi,Mururu,Mango,Tomato,Coffee,Tea,Maize
+Rusizi,Nkanka,Onion dry,Maize,Tomato,Mango,Coffee
+Rusizi,Nkombo,Mango,Tomato,Coffee,Tea,Maize
+Rusizi,Nkungu,Mango,Tea,Tomato,Coffee,Cabbage
+Rusizi,Nyakabuye,Mango,Tomato,Cabbage,Tea,Avocado
+Rusizi,Nyakarenzo,Mango,Tomato,Tea,Coffee,Cabbage
+Rusizi,Nzahaha,Mango,Tomato,Tea,Maize,Cabbage
+Nyamasheke,Bushekeri,Onion dry,Maize,Tomato,Mango,Coffee
+Nyamasheke,Bushenge,Tomato,Mango,Cabbage,Coffee,Tea
+Nyamasheke,Cyato,Tea,Mango,Coffee,Tomato,Cabbage
+Nyamasheke,Gihombo,Mango,Tomato,Tea,Coffee,Cabbage
+Nyamasheke,Kagano,Onion dry,Maize,Mango,Tomato,Coffee
+Nyamasheke,Kanjongo,Coffee,Tea,Tomato,Mango,Avocado
+Nyamasheke,Karambi,Onion dry,Maize,Tomato,Mango,Tea
+Nyamasheke,Karengera,Mango,Tomato,Coffee,Tea,Cabbage
+Nyamasheke,Kirimbi,Tea,Tomato,Mango,Onion dry,Cabbage
+Nyamasheke,Macuba,Tea,Mango,Tomato,Cabbage,Onion dry
+Nyamasheke,Mahembe,Tea,Tomato,Mango,Cabbage,Onion dry
+Nyamasheke,Nyabitekeri,Tea,Mango,Tomato,Cabbage,Onion dry
+Nyamasheke,Ruharambuga,Tomato,Mango,Coffee,Squash,Tea
+Nyamasheke,Shangi,Coffee,Tomato,Tea,Avocado,Mango
+Rulindo,Base,Tomato,Tea,Coffee,Cabbage,Mango
+Rulindo,Burega,Tea,Tomato,Mango,Cabbage,Onion dry
+Rulindo,Bushoki,Tea,Tomato,Mango,Cabbage,Onion dry
+Rulindo,Buyoga,Tea,Tomato,Mango,Cabbage,Onion dry
+Rulindo,Cyinzuzi,Onion dry,Maize,Mango,Tomato,Coffee
+Rulindo,Cyungo,Mango,Tomato,Tea,Coffee,Maize
+Rulindo,Kinihira,Onion dry,Maize,Tomato,Mango,Coffee
+Rulindo,Kisaro,Onion dry,Maize,Tomato,Mango,Coffee
+Rulindo,Masoro,Onion dry,Maize,Mango,Coffee,French beans
+Rulindo,Mbogo,Onion dry,Maize,Mango,Tomato,Coffee
+Rulindo,Murambi,Mango,Tomato,Coffee,Tea,Maize
+Rulindo,Ngoma,Onion dry,Maize,Mango,Tomato,Coffee
+Rulindo,Ntarabana,Onion dry,Tea,Tomato,Mango,Maize
+Rulindo,Rukozo,Tea,Tomato,Mango,Cabbage,Onion dry
+Rulindo,Rusiga,Onion dry,Maize,Mango,Tomato,Coffee
+Rulindo,Shyrongi,Onion dry,Maize,Tomato,Mango,Coffee
+Rulindo,Tumba,Onion dry,Maize,Tomato,Mango,Tea
+Gakenke,Busengo,Onion dry,Maize,Mango,Tomato,Coffee
+Gakenke,Coko,Onion dry,Maize,Mango,Tomato,Coffee
+Gakenke,Cyabingo,Tomato,Tea,Coffee,Avocado,Mango
+Gakenke,Gakenke,Tea,Mango,Tomato,Coffee,Cabbage
+Gakenke,Gashenyi,Coffee,Tea,Tomato,Mango,Cabbage
+Gakenke,Janja,Coffee,Avocado,Tomato,Tea,Celery
+Gakenke,Karambo,Mango,Tea,Tomato,Coffee,Cabbage
+Gakenke,Kivuruga,Mango,Tea,Tomato,Coffee,Cabbage
+Gakenke,Mataba,Tomato,Mango,Coffee,Tea,Cabbage
+Gakenke,Minazi,Tomato,Coffee,Tea,Avocado,Pumpkin
+Gakenke,Mugunga,Onion dry,Mango,Maize,Tomato,Coffee
+Gakenke,Muhondo,Onion dry,Maize,Tomato,Mango,Coffee
+Gakenke,Muyongwe,Onion dry,Tomato,Maize,Mango,Coffee
+Gakenke,Muzo,Tomato,Mango,Tea,Coffee,Cabbage
+Gakenke,Nemba,Onion dry,Maize,Tomato,Mango,Coffee
+Gakenke,Ruli,Tomato,Tea,Mango,Cabbage,Avocado
+Gakenke,Rusasa,Tomato,Tea,Mango,Cabbage,Avocado
+Gakenke,Rushashi,Onion dry,Maize,Mango,Tomato,French beans
+Musanze,Busogo,Onion dry,Maize,Tomato,Mango,Coffee
+Musanze,Cyuve,Tomato,Mango,Tea,Coffee,Cabbage
+Musanze,Gacaca,Onion dry,Maize,Tomato,Mango,Coffee
+Musanze,Gashaki,Onion dry,Tomato,Maize,Mango,French beans
+Musanze,Kimonyi,Mango,Tomato,Tea,Coffee,Cabbage
+Musanze,Kinigi,Onion dry,Maize,Tomato,Mango,Tea
+Musanze,Muhoza,Onion dry,Tea,Tomato,Mango,Maize
+Musanze,Muko,Mango,Tomato,Tea,Coffee,Maize
+Musanze,Musanze,Onion dry,Maize,Tomato,Mango,Coffee
+Musanze,Nkotsi,Mango,Tomato,Tea,Coffee,Maize
+Musanze,Nyange,Onion dry,Maize,Mango,Coffee,Cabbage
+Musanze,Remera,Onion dry,Maize,Tomato,Mango,Coffee
+Musanze,Rwaza,Onion dry,Maize,Mango,Tomato,Coffee
+Burera,Bungwe,Onion dry,Maize,Tomato,Mango,Coffee
+Burera,Butaro,Onion dry,Tomato,Maize,Mango,Tea
+Burera,Cyanika,Onion dry,Maize,Mango,Tomato,Coffee
+Burera,Cyeru,Onion dry,Maize,Mango,Tomato,Coffee
+Burera,Gahunga,Onion dry,Maize,Mango,Tomato,Coffee
+Burera,Gatebe,Avocado,French beans,Tomato,Mango,Beans
+Burera,Gitovu,Onion dry,Maize,Tomato,French beans,Coffee
+Burera,Kagogo,Onion dry,Maize,Tomato,Mango,Coffee
+Burera,Kinoni,Onion dry,Maize,Tomato,Mango,Coffee
+Burera,Kinyababa,Mango,Tomato,Tea,Coffee,Cabbage
+Burera,Kivuye,Mango,Tomato,Tea,Coffee,Cabbage
+Burera,Nemba,Onion dry,Maize,Tomato,Mango,Coffee
+Burera,Rugarama,Mango,Tomato,Tea,Coffee,Cabbage
+Burera,Rugengabari,Mango,Tomato,Tea,Coffee,Cabbage
+Burera,Ruhunde,Onion dry,Maize,Tomato,Mango,Coffee
+Burera,Rusarabuye,Onion dry,Maize,Tomato,Mango,French beans
+Burera,Rwerere,Avocado,French beans,Maize,Tomato,Beans
+Gicumbi,Bukure,Onion dry,Maize,Mango,Tomato,Coffee
+Gicumbi,Bwisige,Onion dry,Maize,Tomato,Mango,Coffee
+Gicumbi,Byumba,Onion dry,Maize,Mango,Tomato,Coffee
+Gicumbi,Cyumba,Onion dry,Maize,Tomato,Mango,Coffee
+Gicumbi,Giti,Onion dry,Maize,Tomato,French beans,Mango
+Gicumbi,Kageyo,Onion dry,Maize,Mango,Tomato,Coffee
+Gicumbi,Kaniga,Onion dry,Maize,Mango,Tomato,Coffee
+Gicumbi,Manyagiro,Avocado,French beans,Tomato,Mango,Beans
+Gicumbi,Miyove,Tomato,Mango,Coffee,Tea,Pumpkin
+Gicumbi,Mukarange,Onion dry,Maize,Tomato,Mango,French beans
+Gicumbi,Muko,Onion dry,French beans,Avocado,Maize,Tomato
+Gicumbi,Mutete,Onion dry,Maize,Mango,Tomato,Coffee
+Gicumbi,Nyamiyaga,Tomato,Tea,Mango,Avocado,Cabbage
+Gicumbi,Nyankenke,Onion dry,Tomato,Tea,Maize,Mango
+Gicumbi,Rubaya,Onion dry,Maize,Mango,Tomato,Tea
+Gicumbi,Rukomo,Onion dry,Maize,Mango,Tomato,Tea
+Gicumbi,Rushaki,Onion dry,Maize,Mango,Tomato,Tea
+Gicumbi,Rutare,Onion dry,Maize,Tomato,Mango,Coffee
+Gicumbi,Ruvune,Onion dry,Maize,Mango,Tomato,Coffee
+Gicumbi,Rwamiko,Onion dry,Maize,Tomato,Mango,Coffee
+Gicumbi,Shangasha,Onion dry,Maize,Tomato,Mango,Coffee
+Rwamagana,Fumbwe,Onion dry,Maize,Mango,Tomato,Tea
+Rwamagana,Gahengeri,Onion dry,Maize,Mango,Tomato,Tea
+Rwamagana,Gishali,Onion dry,Maize,Mango,Tomato,French beans
+Rwamagana,Karenge,Onion dry,Maize,Mango,Tomato,Coffee
+Rwamagana,Kigabiro,Onion dry,Maize,Mango,Tomato,French beans
+Rwamagana,Muhazi,Onion dry,Maize,Tomato,Mango,French beans
+Rwamagana,Munyaga,Onion dry,Maize,Mango,Tomato,French beans
+Rwamagana,Munyiginya,Onion dry,French beans,Maize,Avocado,Mango
+Rwamagana,Musha,Onion dry,Maize,Mango,Tomato,Tea
+Rwamagana,Muyumbu,Onion dry,Maize,Tomato,Mango,French beans
+Rwamagana,Mwulire,Onion dry,Maize,Mango,Tomato,French beans
+Rwamagana,Nyakaliro,Onion dry,Maize,Mango,Tomato,French beans
+Rwamagana,Nzige,Onion dry,Maize,Tomato,Mango,French beans
+Rwamagana,Rubona,Onion dry,Mango,Maize,Tomato,French beans
+Nyagatare,Gatunda,Onion dry,French beans,Maize,Mango,Tomato
+Nyagatare,Karama,Tomato,Mango,Maize,French beans,Squash
+Nyagatare,Karangazi,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Katabagemu,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Kiyombe,Onion dry,Maize,Tomato,Mango,Tea
+Nyagatare,Matimba,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Mimuri,Onion dry,Maize,Tomato,Mango,French beans
+Nyagatare,Mukama,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Musheri,Onion dry,Maize,Tomato,Mango,French beans
+Nyagatare,Nyagatare,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Rukomo,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Rwempasha,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Rwimiyaga,Onion dry,Maize,Mango,Tomato,French beans
+Nyagatare,Tabagwe,Onion dry,Maize,French beans,Tomato,Avocado
+Gatsibo,Gasange,Onion dry,Maize,Mango,Tomato,Tea
+Gatsibo,Gatsibo,Onion dry,Maize,Mango,Tomato,Tea
+Gatsibo,Gitoki,Onion dry,Maize,Mango,Tomato,French beans
+Gatsibo,Kabarore,Mango,Tomato,Maize,Tea,French beans
+Gatsibo,Kageyo,Onion dry,Maize,Mango,Tomato,Coffee
+Gatsibo,Kiramuruzi,Mango,Tomato,Maize,Tea,French beans
+Gatsibo,Kiziguro,Mango,Tomato,Maize,Tea,Cabbage
+Gatsibo,Muhura,Onion dry,Maize,Mango,Tomato,Tea
+Gatsibo,Murambi,Onion dry,Maize,Tomato,Mango,French beans
+Gatsibo,Ngarama,Onion dry,Maize,Mango,Tomato,Tea
+Gatsibo,Nyagihanga,Mango,Tomato,Coffee,Maize,Tea
+Gatsibo,Remera,Onion dry,Maize,Mango,Tomato,Tea
+Gatsibo,Rugarama,Mango,Tomato,Maize,Tea,Cabbage
+Gatsibo,Rwimbogo,Tomato,Mango,Maize,French beans,Squash
+Kayonza,Gahini,Onion dry,Maize,Mango,Tomato,Tea
+Kayonza,Kabare,Onion dry,Mango,Maize,Tomato,French beans
+Kayonza,Kabarondo,Onion dry,Maize,Mango,Tomato,French beans
+Kayonza,Mukarange,Onion dry,Maize,Tomato,Mango,Tea
+Kayonza,Murama,Onion dry,Maize,Mango,Tomato,Tea
+Kayonza,Murundi,Onion dry,Maize,Mango,Tomato,French beans
+Kayonza,Ndego,Mango,Tomato,Cabbage,Maize,Tea
+Kayonza,Nyamirama,Onion dry,Maize,Tomato,Mango,Coffee
+Kayonza,Rukara,Onion dry,Maize,Mango,Tomato,French beans
+Kayonza,Ruramira,Onion dry,Maize,Mango,Tomato,Tea
+Kayonza,Rwinkwavu,Onion dry,French beans,Maize,Avocado,Mango
+Kirehe,Gahara,Onion dry,Maize,Tomato,Mango,French beans
+Kirehe,Gatore,Onion dry,Maize,Mango,Tomato,Cabbage
+Kirehe,Kigarama,Onion dry,Maize,Mango,Tomato,Cabbage
+Kirehe,Kigina,Onion dry,Maize,Mango,Tomato,Tea
+Kirehe,Kirehe,Onion dry,Maize,Mango,Tomato,Tea
+Kirehe,Mahama,Onion dry,Mango,Maize,Tomato,Avocado
+Kirehe,Mpanga,Mango,Tomato,Maize,Cabbage,Tea
+Kirehe,Musaza,Onion dry,Maize,Tomato,Mango,French beans
+Kirehe,Mushikiri,Onion dry,Maize,Mango,Tomato,French beans
+Kirehe,Nasho,Onion dry,Maize,Mango,Tomato,Cabbage
+Kirehe,Nyamugari,Onion dry,Maize,Tomato,French beans,Beans
+Kirehe,Nyarubuye,Onion dry,Maize,Mango,Tomato,French beans
+Ngoma,Gashanda,Onion dry,Maize,French beans,Avocado,Mango
+Ngoma,Jarama,Mango,Tomato,Avocado,Cabbage,Maize
+Ngoma,Karembo,Onion dry,Maize,Mango,Tomato,French beans
+Ngoma,Kazo,Mango,Tomato,Maize,Cabbage,Tea
+Ngoma,Kibungo,Onion dry,Maize,Mango,Tomato,Tea
+Ngoma,Mugesera,Onion dry,Mango,Maize,Tomato,French beans
+Ngoma,Murama,Onion dry,Maize,Mango,Tomato,French beans
+Ngoma,Mutenderi,Onion dry,Maize,Tomato,Mango,French beans
+Ngoma,Remera,Onion dry,Maize,French beans,Avocado,Mango
+Ngoma,Rukira,Onion dry,Maize,Tomato,Mango,French beans
+Ngoma,Rukumberi,Onion dry,Maize,Mango,Tomato,French beans
+Ngoma,Rurenge,Onion dry,Tomato,Mango,Maize,Tea
+Ngoma,Sake,Onion dry,Maize,Tomato,Mango,French beans
+Ngoma,Zaza,Onion dry,Maize,Mango,Tomato,French beans
+Bugesera,Gashora,Onion dry,Maize,Mango,Tomato,French beans
+Bugesera,Juru,Onion dry,Maize,Mango,Tomato,Coffee
+Bugesera,Kamabuye,Onion dry,Mango,Maize,Tomato,Avocado
+Bugesera,Mareba,Avocado,Mango,Tomato,French beans,Beans
+Bugesera,Mayange,Onion dry,Mango,Maize,Tomato,Avocado
+Bugesera,Musenyi,Onion dry,Maize,Mango,Tomato,French beans
+Bugesera,Mwogo,Onion dry,Maize,Tomato,Mango,Avocado
+Bugesera,Ngeruka,Onion dry,Maize,French beans,Avocado,Tomato
+Bugesera,Ntarama,Onion dry,Maize,Tomato,Mango,French beans
+Bugesera,Nyamata,Onion dry,Maize,Mango,Tomato,French beans
+Bugesera,Nyarugenge,Onion dry,Maize,Mango,Tomato,French beans
+Bugesera,Rilima,Onion dry,Avocado,Maize,French beans,Mango
+Bugesera,Ruhuha,Onion dry,Mango,Maize,Tomato,French beans
+Bugesera,Rweru,Onion dry,Maize,Mango,Tomato,French beans
+Bugesera,Shyara,Maize,Onion dry,Mango,Tomato,French beans
